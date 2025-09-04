@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently learning **Low Level Programming** and **Arduino Robotics**
-- 🔭 Working on ****
+- 🔭 Working on **Arduino Based Projects**
 - 🎯 Goal: To grow into a **skilled problem solver and developer** ready for real-world challenges  
 - ⚡ Fun fact: **I love solving puzzles and debugging tricky bugs**
 
